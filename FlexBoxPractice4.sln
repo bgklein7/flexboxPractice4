@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FlexBoxPractice4", "FlexBoxPractice4\", "{2F25F28E-D697-4B3D-9DF3-02FB7ED8A3D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50758"
+		Debug.AspNetCompiler.PhysicalPath = "FlexBoxPractice4\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50758\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50758"
+		Release.AspNetCompiler.PhysicalPath = "FlexBoxPractice4\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50758\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50758"
+		SlnRelativePath = "FlexBoxPractice4\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F25F28E-D697-4B3D-9DF3-02FB7ED8A3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F25F28E-D697-4B3D-9DF3-02FB7ED8A3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E74FE5-593E-4B34-B7D0-48A3934C0CFD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿body {
+    display: flex;
+}
+aside {
+    width: 20vw;
+}
+main {
+    flex: 1;
+}
